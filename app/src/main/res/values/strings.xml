@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fitness app</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+</resources>
